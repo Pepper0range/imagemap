@@ -1,0 +1,2 @@
+To start it go into dist and double click app.exe then go to the Website http://127.0.0.1:5000 
+if you want to Change/delet Images just go into static/bilder and all the Images should be there if you want to delet post/Images on the map you can go in the file bilderdaten.json   
